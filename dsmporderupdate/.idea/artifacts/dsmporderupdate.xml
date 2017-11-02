@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dsmporderupdate">
+    <output-path>$PROJECT_DIR$/classes/artifacts/dsmporderupdate</output-path>
+    <root id="archive" name="dsmporderupdate.war" />
+  </artifact>
+</component>
